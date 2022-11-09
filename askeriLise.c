@@ -12,6 +12,7 @@ int main() {
             printf("red edildi\n");
             printf("%f", vki);
         }
+
     }
     else {
         printf("hata");
